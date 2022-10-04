@@ -25,3 +25,7 @@
  
  Console.WriteLine(" Your Total is :" + total);
  ```
+- [x] Say hello to the world
+- [x] Add images
+- [x] Add code
+- [ ] Sleep
